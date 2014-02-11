@@ -13,7 +13,7 @@ import java.util.Iterator;
  *
  */
 
-//Hola mama salgo en la tele
+//Hola mama salgo en la tele.
 
 public class aplicacio {
 	
